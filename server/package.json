@@ -1,0 +1,10 @@
+{
+  "name": "twitter-socket",
+  "version": "0.0.1",
+  "description": "stream tweets, send them to front end",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.1.1",
+    "twit": "^2.2.10"
+  }
+}

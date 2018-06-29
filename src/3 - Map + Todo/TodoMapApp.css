@@ -1,0 +1,32 @@
+.suggestion-item {
+  width: 100%;
+  padding: 5px;
+  cursor: pointer;
+  font-weight: 400;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-size: 12px;
+  line-height: 1.5em;
+}
+
+.suggestion-item--active {
+  background-color: rgba(0,0,0,0.05);
+}
+.location-search-input {
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+    border: honeydew;
+    display: block;
+    width: 100%;
+    padding: 4px;
+    border-radius: 2px;
+    outline: none;
+}
+#Todos {
+  width: 300px;
+  padding: 10px;
+}
+#Todo-and-map-container {
+  display: flex;
+  flex-direction: row;
+  align-content: flex-start;
+  justify-content: flex-start;
+}
